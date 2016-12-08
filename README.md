@@ -5,12 +5,19 @@ Given q queries in the form of a graph and some starting node,s, perform each qu
 
 smaple input:
 2
+
 4 2
+
 1 2
+
 1 3
+
 1
+
 3 1
+
 2 3
+
 2
 
 sample output:
