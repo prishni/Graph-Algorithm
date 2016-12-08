@@ -4,6 +4,7 @@ Consider an undirected graph consisting of n nodes where each node is labeled fr
 Given q queries in the form of a graph and some starting node,s, perform each query by calculating the shortest distance from starting node to all the other nodes in the graph. Then print a single line of n-1 space-separated integers listing node s's shortest distance to each of the n-1 other nodes (ordered sequentially by node number); if s is disconnected from a node, print -1 as the distance to that node. 
 
 smaple input:
+
 2
 
 4 2
@@ -21,6 +22,7 @@ smaple input:
 2
 
 sample output:
+
 6 6 -1
 
 -1 6
