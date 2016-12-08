@@ -22,4 +22,5 @@ smaple input:
 
 sample output:
 6 6 -1
+
 -1 6
